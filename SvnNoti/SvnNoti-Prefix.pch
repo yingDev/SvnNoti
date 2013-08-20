@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SvnNoti' target in the 'SvnNoti' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
